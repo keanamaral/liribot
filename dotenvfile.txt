@@ -1,0 +1,17 @@
+#Here is where you input your API keys without quotations ""
+
+# Spotify API keys
+SPOTIFY_ID=<enter your Spotify ID here>
+SPOTIFY_SECRET=<enter your Spotify secret here>
+
+# Twitter API keys
+TWITTER_CONSUMER_KEY=<enter your twitter consumer key here>
+TWITTER_CONSUMER_SECRET=<enter your twitter consumer secret here>
+TWITTER_ACCESS_TOKEN_KEY=<enter your twitter access token key here>
+TWITTER_ACCESS_TOKEN_SECRET=<enter your twitter token secret here>
+
+# Geocoder API keys
+GOOGLE_API_KEY=<enter your geocoder api key here>
+
+#OMDB API Key
+OMDB_apikey=<enter your OMDB api key here>
